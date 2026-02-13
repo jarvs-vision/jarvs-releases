@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>JarVSHost</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 13 Feb 2026 02:53:16 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/julienfouilhe/jarvs-releases/releases/download/v0.1.0/JarVSHost.dmg" length="173411459" type="application/octet-stream" sparkle:edSignature="eEefejDZWUeNMryRRnouKNJdHZMHIgxsXFwi58udByeTJ9z6tTg5GxhVpyPTYfoHdVFeMF8/PDKO7usofpENBQ=="/>
+        </item>
+    </channel>
+</rss>
