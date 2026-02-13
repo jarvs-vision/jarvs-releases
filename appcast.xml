@@ -4,11 +4,11 @@
         <title>JarVSHost</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 13 Feb 2026 02:53:16 +0100</pubDate>
+            <pubDate>Fri, 13 Feb 2026 14:33:19 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/julienfouilhe/jarvs-releases/releases/download/v0.1.0/JarVSHost.dmg" length="173411459" type="application/octet-stream" sparkle:edSignature="eEefejDZWUeNMryRRnouKNJdHZMHIgxsXFwi58udByeTJ9z6tTg5GxhVpyPTYfoHdVFeMF8/PDKO7usofpENBQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/julienfouilhe/jarvs-releases/main/JarVSHost.dmg" length="173406985" type="application/octet-stream" sparkle:edSignature="F+4+iiie8DlSls6yaQbUIUXwltHOGpnNdBI6hHjz8a9u3mmzyzsBbdNmTq1u1tBx8Uff0td9Kp581HEOR/zdAQ=="/>
         </item>
     </channel>
 </rss>
