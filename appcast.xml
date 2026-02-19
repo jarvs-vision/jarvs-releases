@@ -18,21 +18,5 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure sparkle:cpu="x86_64" url="https://raw.githubusercontent.com/julienfouilhe/jarvs-releases/main/JarVSHost-x86_64.dmg" length="202086042" type="application/octet-stream" sparkle:edSignature="2OvK+MpANiKAO9IqAr39HCMYMwtznTf0KQ4v0L+AmPTAsgpiO+ptB60C/7s89dU3JFqG2KTgqv9fVSkoHOJnAw=="/>
         </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 19 Feb 2026 14:22:19 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure sparkle:cpu="arm64" url="https://raw.githubusercontent.com/julienfouilhe/jarvs-releases/main/JarVSHost-arm64.dmg" length="195833873" type="application/octet-stream" sparkle:edSignature="2hXUR5zEZ9nHkzmh+8FJ4P5ND5+5CuhHI8tXk56QZjmfKY4thwFHfbZG+XWJO6IYgbhBkVAatz84IdsercBDDg=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 19 Feb 2026 14:22:24 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure sparkle:cpu="x86_64" url="https://raw.githubusercontent.com/julienfouilhe/jarvs-releases/main/JarVSHost-x86_64.dmg" length="202092336" type="application/octet-stream" sparkle:edSignature="mNKXKPYl9ZEZuqQV36ubkoSv7UT3hjsTbnzroMgAAtWdfN/xn+JKdYJGntOs2AuHepZI/FFe6DXTIp2hkMvKDg=="/>
-        </item>
     </channel>
 </rss>
