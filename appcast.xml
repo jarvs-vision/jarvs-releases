@@ -1,7 +1,23 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>JarVSHost</title>
+        <title>JarVS</title>
+        <item>
+            <title>0.5</title>
+            <pubDate>Sat, 21 Feb 2026 00:46:17 +0100</pubDate>
+            <sparkle:version>0.5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:cpu="arm64" url="https://raw.githubusercontent.com/julienfouilhe/jarvs-releases/main/JarVS-arm64.dmg" length="229114118" type="application/octet-stream" sparkle:edSignature="bYUAMshxJ0vZ9XnVqv0BNxUBB5AzBoAsB591cChltD9UQ+iIhMaBoFeWxSLmPwSZcIBxwrbw3rJdWcfcDMZxAQ=="/>
+        </item>
+        <item>
+            <title>0.5</title>
+            <pubDate>Sat, 21 Feb 2026 00:46:22 +0100</pubDate>
+            <sparkle:version>0.5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:cpu="x86_64" url="https://raw.githubusercontent.com/julienfouilhe/jarvs-releases/main/JarVS-x86_64.dmg" length="236122625" type="application/octet-stream" sparkle:edSignature="9yN4Me9V0iywx8LjmM4kvAyGM8hzimK+t35PBHk9WAYb/z20F1ohsGd51+1WIHN14YhyrBkKlHKDPkwcFP9LCg=="/>
+        </item>
         <item>
             <title>0.4</title>
             <pubDate>Fri, 20 Feb 2026 18:49:01 +0100</pubDate>
