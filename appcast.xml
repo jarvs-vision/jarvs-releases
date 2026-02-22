@@ -3,6 +3,22 @@
     <channel>
         <title>JarVS</title>
         <item>
+            <title>0.9</title>
+            <pubDate>Mon, 23 Feb 2026 00:48:54 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:cpu="arm64" url="https://raw.githubusercontent.com/jarvs-vision/jarvs-releases/main/JarVS-arm64.dmg" length="437788094" type="application/octet-stream" sparkle:edSignature="fOUK27eR7eWPSXK+vka5D/37I+EkWDoO6kF8NzX3YH1A0cBrsW7QFVxeVKdrlvUFTfY5UGNwx59CFQ1D43kjDw=="/>
+        </item>
+        <item>
+            <title>0.9</title>
+            <pubDate>Mon, 23 Feb 2026 00:49:07 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:cpu="x86_64" url="https://raw.githubusercontent.com/jarvs-vision/jarvs-releases/main/JarVS-x86_64.dmg" length="448219437" type="application/octet-stream" sparkle:edSignature="/Ufw7XkVrlLRyN2D3drrzkGMr41GPriz8rh070TldetqzDSKS5VdgViM89pQzMYPwUu/BuR9NOCzGTH0DbT6Cw=="/>
+        </item>
+        <item>
             <title>0.8</title>
             <pubDate>Sun, 22 Feb 2026 23:50:00 +0100</pubDate>
             <sparkle:version>0.8</sparkle:version>
