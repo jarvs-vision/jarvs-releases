@@ -3,6 +3,22 @@
     <channel>
         <title>JarVS</title>
         <item>
+            <title>0.34</title>
+            <pubDate>Wed, 20 May 2026 14:45:49 +0200</pubDate>
+            <sparkle:version>0.34</sparkle:version>
+            <sparkle:shortVersionString>0.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:cpu="arm64" url="https://github.com/jarvs-vision/jarvs-releases/releases/download/v0.34/JarVS-arm64.dmg" length="43385918" type="application/octet-stream" sparkle:edSignature="D/t56PVuiKxp3AklhRxWsqIPmMZt1lZ67gFnhWsiRiTe6LwbfViUd1ADvNSnNmH070fL41lTalN+t0DVdzuNCg=="/>
+        </item>
+        <item>
+            <title>0.34</title>
+            <pubDate>Wed, 20 May 2026 14:45:51 +0200</pubDate>
+            <sparkle:version>0.34</sparkle:version>
+            <sparkle:shortVersionString>0.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:cpu="x86_64" url="https://github.com/jarvs-vision/jarvs-releases/releases/download/v0.34/JarVS-x86_64.dmg" length="46629630" type="application/octet-stream" sparkle:edSignature="RXDcAFBoFblQVSqJC5cpteIO0lICHyQ/t8fyqT9851+h2pVisU4f+KpdluwgCWCG/4YR/jfXKUvVi4wEnIDiDw=="/>
+        </item>
+        <item>
             <title>0.33</title>
             <pubDate>Mon, 23 Mar 2026 00:18:16 +0100</pubDate>
             <sparkle:version>0.33</sparkle:version>
